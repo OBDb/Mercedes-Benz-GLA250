@@ -4,12 +4,24 @@ references:
 generations:
   - name: "First Generation"
     start_year: 2013
+    end_year: 2017
+    model_code: "X156"
+    description: "The first generation Mercedes-Benz GLA 250 was produced from December 2013 to January 2017 as a subcompact luxury crossover SUV. It featured a 2.0L turbocharged four-cylinder petrol engine producing 155 kW (211 PS) and 350 Nm of torque, with a 0-100 km/h acceleration of 6.7 seconds and 230 km/h top speed."
+
+  - name: "First Generation (Facelift)"
+    start_year: 2017
     end_year: 2019
     model_code: "X156"
-    description: "The first generation Mercedes-Benz GLA 250 was produced from December 2013 to November 2019 as a subcompact luxury crossover SUV. It featured a 2.0L turbocharged four-cylinder petrol engine producing 155 kW (211 PS) and 350 Nm of torque, with a 0-100 km/h acceleration of 6.7 seconds and 230 km/h top speed."
+    description: "The facelifted first generation Mercedes-Benz GLA 250 was produced from January 2017 to November 2019. Updates included redesigned grille, new front and rear bumpers, updated 18-inch alloy wheels, all LED bi-xenon headlamps replaced with full LED units, new LED taillights with updated design pattern, and a new 8.0-inch free-standing infotainment screen."
 
   - name: "Second Generation"
     start_year: 2019
+    end_year: 2023
+    model_code: "H247"
+    description: "The second generation Mercedes-Benz GLA 250 was introduced in December 2019 as a subcompact luxury crossover SUV. It features the MFA2 platform, with a 2.0L turbocharged four-cylinder petrol engine producing 165 kW (224 PS) and 350 Nm of torque, 0-100 km/h acceleration of 6.9 seconds, MBUX infotainment system, and increased interior space with 116 mm more headroom."
+
+  - name: "Second Generation (Facelift)"
+    start_year: 2023
     end_year: null
     model_code: "H247"
-    description: "The second generation Mercedes-Benz GLA 250 was introduced in December 2019 and continues to the present. It features an updated design with improved interior space, MBUX infotainment system, and a 2.0L turbocharged four-cylinder petrol engine producing 165 kW (224 PS) and 350 Nm of torque, with 0-100 km/h acceleration of 6.9 seconds and 250 km/h top speed."
+    description: "The facelifted second generation Mercedes-Benz GLA 250 was introduced in March 2023. Updates include redesigned headlights and taillights, latest iteration of MBUX infotainment system with wireless Apple CarPlay and Android Auto, updated powertrain options, three new optional wheel designs, and dual 10.3-inch screen now standard as part of the Premium Package."
